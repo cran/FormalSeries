@@ -1,0 +1,16 @@
+exportMethods(
+    "-",
+    "*",
+    "/",
+    "[",
+    "[<-",
+    "&",
+    "+",
+    "initialize",
+    "print",
+    "rfseries",
+    "show" 
+)
+exportClasses(
+    "fseries" 
+)
